@@ -1,0 +1,17 @@
+D:\MainProjects\BCv.Services\BCv.Services\bin\Debug\BCv.Services.dll.config
+D:\MainProjects\BCv.Services\BCv.Services\bin\Debug\BCv.Services.dll
+D:\MainProjects\BCv.Services\BCv.Services\bin\Debug\BCv.Services.pdb
+D:\MainProjects\BCv.Services\BCv.Services\bin\Debug\EntityFramework.dll
+D:\MainProjects\BCv.Services\BCv.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\MainProjects\BCv.Services\BCv.Services\bin\Debug\Zza.Data.dll
+D:\MainProjects\BCv.Services\BCv.Services\bin\Debug\Zza.Entities.dll
+D:\MainProjects\BCv.Services\BCv.Services\bin\Debug\Zza.Data.pdb
+D:\MainProjects\BCv.Services\BCv.Services\bin\Debug\Zza.Data.dll.config
+D:\MainProjects\BCv.Services\BCv.Services\bin\Debug\Zza.Entities.pdb
+D:\MainProjects\BCv.Services\BCv.Services\bin\Debug\EntityFramework.xml
+D:\MainProjects\BCv.Services\BCv.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\MainProjects\BCv.Services\BCv.Services\obj\Debug\Bcv.Services.csprojAssemblyReference.cache
+D:\MainProjects\BCv.Services\BCv.Services\obj\Debug\Bcv.Services.csproj.CoreCompileInputs.cache
+D:\MainProjects\BCv.Services\BCv.Services\obj\Debug\Bcv.Services.csproj.CopyComplete
+D:\MainProjects\BCv.Services\BCv.Services\obj\Debug\BCv.Services.dll
+D:\MainProjects\BCv.Services\BCv.Services\obj\Debug\BCv.Services.pdb

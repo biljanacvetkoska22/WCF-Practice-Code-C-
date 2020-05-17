@@ -1,0 +1,11 @@
+D:\MainProjects\BCv.Services\Zza.Entities\bin\Debug\Zza.Entities.dll
+D:\MainProjects\BCv.Services\Zza.Entities\bin\Debug\Zza.Entities.pdb
+D:\MainProjects\BCv.Services\Zza.Entities\obj\Debug\Bcv.Entities.csprojAssemblyReference.cache
+D:\MainProjects\BCv.Services\Zza.Entities\obj\Debug\Bcv.Entities.csproj.CoreCompileInputs.cache
+D:\MainProjects\BCv.Services\Zza.Entities\obj\Debug\Zza.Entities.dll
+D:\MainProjects\BCv.Services\Zza.Entities\obj\Debug\Zza.Entities.pdb
+D:\MainProjects\BCv.Services\Bcv.Entities\bin\Debug\Zza.Entities.dll
+D:\MainProjects\BCv.Services\Bcv.Entities\bin\Debug\Zza.Entities.pdb
+D:\MainProjects\BCv.Services\Bcv.Entities\obj\Debug\Bcv.Entities.csproj.CoreCompileInputs.cache
+D:\MainProjects\BCv.Services\Bcv.Entities\obj\Debug\Zza.Entities.dll
+D:\MainProjects\BCv.Services\Bcv.Entities\obj\Debug\Zza.Entities.pdb
